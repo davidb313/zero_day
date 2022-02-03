@@ -1,5 +1,5 @@
 0x03. Git
- By Guillaume
+ By Guillaume holaaaa
  Weight: 1
  Ongoing second chance project - started 02-01-2022, must end by 02-05-2022 (in 2 days) - you're done with 20% of tasks.
  QA review fully automated.
